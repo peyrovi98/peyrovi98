@@ -1,6 +1,9 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peyrovi98&show_icons=true&&line_height=40)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peyrovi98&show_icons=true)
+![Stats](https://github-profile-trophy-errir.vercel.app/?username=peyrovi98&title=Commit,Repositories,Stars,Followers&margin-w=18)
+<!--
 ### Hi there 👋
 
-<!--
 **peyrovi98/peyrovi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
